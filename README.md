@@ -9,7 +9,7 @@ Abrir con Visual Studio Code la carpeta del proyecto
 
 Cambiar al directorio de la carpeta del proyecto: `cd ts-reactbabeldemo`
 
-Ejecutar el trasncompilado con el comando: npm run build
+Ejecutar el trasncompilado con el comando: `npm run build`
 
 Modificar el archivo resultado index.js, cambiando `require("react")` por `React` y `require("react-dom")` por `ReactDOM`
 
