@@ -1,7 +1,7 @@
 # ts-reactbabeldemo
 Demo de React transcompilado de Typescript a JavaScript con Babel
 
----INSTALACION COMPLETA---
+**---INSTALACION COMPLETA---**
 
 Instalar node js en el ordenador
 
@@ -14,7 +14,7 @@ Ejecutar el trasncompilado con el comando: npm run build
 Modificar el archivo resultado index.js, cambiando `require("react")` por `React` y `require("react-dom")` por `ReactDOM`
 
 
----INSTALACION BASICA---
+**---INSTALACION BASICA---**
 
 Instalar servidor Tomcat Apache 9 en el escritorio
 
@@ -25,13 +25,14 @@ Modificar el archivo index.jsp de la carpeta C:\Users\ElPutoAmo\Desktop\apache-t
   Añadir la linea `<h4><a href="${tomcatDocUrl}typescriptReact.html">TypeScriptReact</a></h4>` debajo de la linea `<h3>Recommended Reading:</h3>`
 
 
----EJECUCION---
+**---EJECUCION---**
 
 Ejecutar el archivo startup.bat de la carpeta C:\Users\ElPutoAmo\Desktop\apache-tomcat-9.0.6\bin
 Abrir navegador Web en la pagina `localhost:8080`
 
 
----ACTUALIZACION---
+**---ACTUALIZACION---**
+
 En caso de querer actualizar los paquetes node de babel seguir estos pasos en el terminal de Visual Studio Code:
 `npm install --save-dev typescript@2.9.1
 npm install --save-dev @babel/core@7.0.0-beta.49
